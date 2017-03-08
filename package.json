@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "broccoli-funnel": "^1.0.0",
+    "broccoli-watchify": "^1.0.1",
+    "browserify-derequire": "^0.9.4",
     "ember-cli-babel": "^5.1.7"
   },
   "devDependencies": {
